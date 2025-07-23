@@ -1,0 +1,19 @@
+Sprint Backlog - Sprint 01
+Producter Owner: Ramon Dino
+
+Scrum Master: Pacholok
+
+Data da Sprint: 23/07/2025 16:09 
+
+Items do Product Owner pedido para a janela da Sprint
+
+ID 1:
+Descrição: Como cliente da empresa pediu foi alteradas as cores das fontes dos veículos na cor azul para proporcionar uma melhor experiência ao usuário.
+Esforço Estimado: 40 minutos
+
+ID 3:
+Descrição: A pedido do cliente, foi alterado os links dos contatos, para uma melhor propoção ao usuario.
+Esforço Estimado: 40 minutos
+
+
+2 pontos
