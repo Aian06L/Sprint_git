@@ -1,0 +1,13 @@
+Sprint Retrospective - Sprint 3
+
+Data da Sprint: 23/07/2025.
+
+O que funcionou bem: Ao adicionar as pastas,clona os repositorio e com as organizações das branchs, 
+manteve o trabalho organizado e com a branch main estavel sem ter conflitos. 
+
+O que não funcionou bem: Os merges teve um pequeno problema pois não estava indentificando as branchs criadas,
+então tive que refazer e os commits não estavam subindo. 
+
+Sugestões de melhoria: Clareza nos pedidos do cliente, sem entender muito no incio o que seria feito.
+
+Ferramentas: Git (Git/GitHub), VsCode.
